@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328080399974",
+    "project_id": "proje-adi-e1435",
+    "storage_bucket": "proje-adi-e1435.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328080399974:android:682702cf82670c46bf97a7",
+        "android_client_info": {
+          "package_name": "com.example.proje_adi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe19uVWWKYslTrjUAKo6fMcyDvmjiUdHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

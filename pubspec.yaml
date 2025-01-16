@@ -1,0 +1,40 @@
+name: proje_adi
+description: A new Flutter project with chatbot and Firebase integration.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.4.0
+  cloud_firestore: ^5.6.1
+
+  # QR Kod Tarayıcı
+  qr_code_scanner: ^1.0.0
+
+  # Dialogflow Chatbot
+  dialogflow_flutter: ^1.0.0
+
+  # UI Paketleri
+  cupertino_icons: ^1.0.2
+
+  # HTTP İstekleri (Gerekirse API'ler için)
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Varlıklar (Assets) Klasörü
+  assets:
+    - assets/fiery-orb-446117-a6-d22d86b170d6.json  # JSON dosyasının yolu

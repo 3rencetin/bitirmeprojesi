@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fiery-orb-446117-a6",
+  "private_key_id": "d22d86b170d610afc2728c7409198c4dce3d9d38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBf4c8wnXpzSdH\n6hROzUt3PGTEuH9HEBYdoBBhgoUUnbzppy1cMn/6J2tyr2SQla8Aj6HUCRLCi6Nv\nG7XSVUIM4TT4gYbiik0SirPUngJ88sI6ok3kBZ8Bj43d/uOEfcLIkdGiBKam9wES\nriJ3klGzI8wExpVmFIHKKCWUFEIfhZckhb+7fegZhC8rG/3ALbXItse8VRjqLb95\nniHCJPX7fq+j2MfrQa6UsPso8NLsXGa6zEJDWI4NCkoLLgNa66Xc9x9Rua8MMdIg\n5M52lOGS+2jgpY1GDLWQsbgJy3R6wATG6V/ai2HQoxl8FJ3aEWg9Sx4aq1fzPEZx\n3rJ+4MXPAgMBAAECggEAP6rymK9zlOaIEkWXQQaT2jvo/EGov30vibftK+iCWXI9\ngrQbXMbRDUKDPE0xzdEysACSwu3pWlIQCLMZdIfRH+PKRip4c3oGOh+hZEhJkUtf\nVWOqNWkUFLNjfrQrsKCgwtYYIDNfknibxcW+WZGviD4zFy8wYVJGEnp7QuoXh78e\nJWSA3j5dujwXkB/xUsuZ9eoX5ygfl1w7MbYcdlCqKzFvs3iSG5IkraowsJ908ouB\nimHef3Jjqn4BTt+ot64qMdQ1B2UW5wITMvULFODqT6hXj7KtGOQXCuVRMXrA1bJN\nu7G37vjJG5v9awPrwVpxvvYENMaQ2Gc/YaOg0e+Z4QKBgQDynJqhN2IJIYVvgjWl\nCj/eRXyWWeVyRWue0+Wl4R3UzHqhcQFwwxQHEq89WsYJ4hVrPuNBEc3XwbJxEb+F\njXjYELi2fkSeTR7msi8Ay67WsVdFhEhe9qqH5C5KZ5Zsc+0FoLJmG4L6iz2Cqo5p\nb5a8Don8xNj7oyhCyzSHk88GhQKBgQDMLRe6zyWO/obS46WCm9kUzLxhJCIq8n7z\ngxZi8Yovz6rji37OiVU1KZmrodAdZmVTQ6VHRJ7zrxeyEope8bGnYZujnnwQ72dT\nFVZtGsbmpHJt0blj7XO/zVKEG+pzMs6WUp8F5QN2vzv6jVFRv1vpeJlMg82j4ySW\n8Zw5krEdQwKBgFzVKaHopD2kMv/BDi/RpTCy3AJX8aDxCUYkBKqdYiHMAFyH9iok\nqyQttRpAAqlDdjisPp7mZiJZvqLfTK6YvJXIiDVkSXNdRSa3JZ8jUQpbn249OMgF\nkKkg2cmkq31iOl6956WEf3DJGMdH5ehYR5A76/bph7F58+zi/n2mREBVAoGAUf69\n6+Cqla1z2ZdgbX5HBIpgEKbhLdwqzYJUaDHWK/M7DpyDtVADrxDgzMNz/4qSoIin\nBGLzbqtfWb0GYrCvhqe1SFUqP+bU2NHV3oUFYbSi26WAzTeb52f+fl1znwXFXysY\n/9YDuRl9bdZ41NqDf9RVxBueZvWeSRwIgDp/9F8CgYEAjPu+YAlEesqTYCqjdsEN\nGJL+9Ruru33bfGk21/zhi45FYXunNA2Xk3HJeFu/gsnxyL/8s+7pNTBLwbnee/Gm\nltIU3r92M2fCM3wYkcW8IOpG1JZ/k5SlpiFMFK5HOoCY09davd9xJ6o7TPhYMYwe\nZEAsgdYKVhr0CMBYlto6LcQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-access-service@fiery-orb-446117-a6.iam.gserviceaccount.com",
+  "client_id": "103343760033990823768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-access-service%40fiery-orb-446117-a6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
